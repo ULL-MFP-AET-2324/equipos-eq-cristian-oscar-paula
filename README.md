@@ -21,13 +21,13 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
 
 ## Oscar García Arteaga
 
-* [GH Classroom]()
-* [Organización de Clase]()
-* [Profesor]()
+* [GH Classroom](https://classroom.github.com/classrooms/149104093-ull-mfp-aet-2324-alu0100332025)
+* [Organización de Clase](https://github.com/ull-mfp-aet-2324-alu0100332025)
+* [Profesor](https://github.com/OscarGarciaArteaga)
 * Alumnos en la organización
-  * [Alumno 1]()
-  * [Alumno 2]()
-  * [Alumno 3]()
+  * [Paula](https://github.com/orgs/ull-mfp-aet-2324-alu0100332025/people/Paula150395)
+  * [Cristian](https://github.com/orgs/ull-mfp-aet-2324-alu0100332025/people/CristianRA-1989)
+  
 
 ## Paula Alcántara Gutiérrez
 

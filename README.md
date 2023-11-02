@@ -19,7 +19,7 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
   * [Alumno 2]()
   * [Alumno 3]()
 
-## Óscar
+## Oscar García Arteaga
 
 * [GH Classroom]()
 * [Organización de Clase]()

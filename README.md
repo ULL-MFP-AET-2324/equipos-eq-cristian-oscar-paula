@@ -29,7 +29,7 @@ Para cada miembro del equipo  pon una sección con la lista de enlaces a:
   * [Alumno 2]()
   * [Alumno 3]()
 
-## Paula
+## Paula Alcántara Gutiérrez
 
 * [GH Classroom]()
 * [Organización de Clase]()

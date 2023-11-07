@@ -18,7 +18,7 @@ Para cada miembro del equipo pon una sección con la lista de enlaces a:
 * [Profesor](https://github.com/CristianRA-1989)
 * Alumnos en la organización
   * [Oscar](https://github.com/OscarGarciaArteaga)
-  * [Paula](https://github.com/orgs/ull-mfp-aet-2324-alu0100332025/people/Paula150395)
+  * [Paula](https://github.com/Paula150395)
  
 
 ## Oscar García Arteaga
@@ -27,8 +27,8 @@ Para cada miembro del equipo pon una sección con la lista de enlaces a:
 * [Organización de Clase](https://github.com/ull-mfp-aet-2324-alu0100332025)
 * [Profesor](https://github.com/OscarGarciaArteaga)
 * Alumnos en la organización
-  * [Paula](https://github.com/orgs/ull-mfp-aet-2324-alu0100332025/people/Paula150395)
-  * [Cristian](https://github.com/orgs/ull-mfp-aet-2324-alu0100332025/people/CristianRA-1989)
+  * [Paula](https://github.com/Paula150395)
+  * [Cristian](https://github.com/CristianRA-1989)
   
 
 ## Paula Alcántara Gutiérrez
